@@ -1,2 +1,2 @@
 # repository01
-Programa em C (Média Ponderada)
+Programa em C (Escrever em arquivo txt)
